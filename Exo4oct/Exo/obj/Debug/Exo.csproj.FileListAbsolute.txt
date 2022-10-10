@@ -1,0 +1,14 @@
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\bin\Debug\Exo.exe.config
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\bin\Debug\Exo.exe
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\bin\Debug\Exo.pdb
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\obj\Debug\Exo.csproj.AssemblyReference.cache
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\obj\Debug\Exo.csproj.CoreCompileInputs.cache
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\obj\Debug\Exo.exe
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo\Exo\obj\Debug\Exo.pdb
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\bin\Debug\Exo.exe.config
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\bin\Debug\Exo.exe
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\bin\Debug\Exo.pdb
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\obj\Debug\Exo.csproj.AssemblyReference.cache
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\obj\Debug\Exo.csproj.CoreCompileInputs.cache
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\obj\Debug\Exo.exe
+C:\Users\poton\OneDrive\Documents\ESILV\A3\C# Language\Exo4oct\Exo\obj\Debug\Exo.pdb
