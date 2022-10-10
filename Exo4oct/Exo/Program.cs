@@ -108,6 +108,7 @@ namespace Exo
                 Console.Write("person {0} : ", i+1);
                 arr[i] = new Person(Console.ReadLine());
             }
+            foreach (Person p in arr) Console.Write(p+" ");
         }
     }
 }
